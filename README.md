@@ -5,7 +5,7 @@
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhqwq)](https://github.com/anuraghazra/github-readme-stats)
 
-## Prefered
+## Things I know a little bit
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
