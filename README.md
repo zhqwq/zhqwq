@@ -1,4 +1,3 @@
-## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhqwq)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Things I know a little bit
